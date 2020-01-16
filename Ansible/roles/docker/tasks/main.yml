@@ -1,0 +1,4 @@
+---
+- name: Docker install
+  yum:
+    name: docker-ce
